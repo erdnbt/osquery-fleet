@@ -26,6 +26,9 @@ https://osquery.readthedocs.io/en/latest/installation/install-linux/
 Fleet install:
 https://github.com/kolide/fleet/blob/3.2.0/docs/infrastructure/README.md
 
+OsQuery logging to AWS
+https://osquery.readthedocs.io/en/latest/deployment/aws-logging/
+
 ## Resources
 
 - OsQuery: https://github.com/osquery/osquery
