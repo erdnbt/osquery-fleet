@@ -9,7 +9,13 @@ Implementation of OsQuery and Fleet
 
 ### What is OsQuery?
 
-OsQuery is a SQL powered operating system instrumentation, monitoring, and analytics framework. 
+OsQuery is a SQL powered operating system instrumentation, monitoring, and analytics framework.
+
+### What is MDM?
+
+Mobile Device Management (MDM) is the process of enhancing corporate data security by monitoring, managing and securing the mobile devices such as laptops, smartphones and tablets that are used in enterprises. Mobile device management solutions allow IT teams and admins to control and distribute security policies to the mobile devices accessing sensitive corporate data in their organizations, ensuring the corporate network is secure. With more and more employees using one or all of these devices, organizations across all shapes and sizes are now turning to mobile device management for enhanced data and network security and improved employee productivity. MDM solutions enable IT admins to configure enterprise-grade security policies on mobile devices, making them corporate ready.
+
+Source: https://www.manageengine.com/mobile-device-management/what-is-mdm.html
 
 ### What is Fleet?
 
