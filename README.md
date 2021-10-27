@@ -17,6 +17,16 @@ Mobile Device Management (MDM) is the process of enhancing corporate data securi
 
 Source: https://www.manageengine.com/mobile-device-management/what-is-mdm.html
 
+#### What is Best MDM Solution
+
+1. Miradore
+1. Hexnode
+1. Citrix Endpoint Management
+1. ManageEngine Mobile Device Manager Plus
+1. SOTI MobiControl
+
+Source: https://www.techradar.com/best/best-mdm-solutions
+
 ### What is Fleet?
 
 A flexible control server for osquery fleets.
