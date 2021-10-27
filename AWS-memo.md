@@ -1,5 +1,12 @@
 ## AWS
 
+
+### What is AWS WAF
+
+https://docs.aws.amazon.com/waf/
+
+AWS WAF is a web application firewall that lets you monitor web requests that are forwarded to Amazon CloudFront distributions or an Application Load Balancer. You can also use AWS WAF to block or allow requests based on conditions that you specify, such as the IP addresses that requests originate from or values in the requests.
+
 ### What is AWS Shield
 
 https://aws.amazon.com/shield/
